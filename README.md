@@ -26,6 +26,7 @@ Required to model the demand for shared bikes with the available independent var
 Top features which explain variability of the demand are: temperature,year,weathersit_Light_snowrain,windspeed,season_spring,month_Sep,weathersit_Misty,holiday,season_winter
 
 Bike rentals are majorly effected by temperature, year, weather situations,season.
+With the increase in temperature bike demand increases and when the weather situation is light snow and Misty demand decreases.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
